@@ -4,7 +4,7 @@ CMPT276 group project(Was in charge of the UI)
 
 link to final product: http://cooprs.herokuapp.com/
 
-link to my UI version: https://cmpt276-my-group-assignment.herokuapp.com/
+link to my UI version(lack of some function): https://cmpt276-my-group-assignment.herokuapp.com/
 
 # CoopR-S
 Web application -- team project
